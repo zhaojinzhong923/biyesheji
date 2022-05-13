@@ -1,0 +1,3 @@
+2022-04-13 14:54:15,007 INFO (StartupInfoLogger.java:50)- Starting App on DESKTOP-DRO7MOF with PID 11664 (D:\Spring-Boot-Neo4j-Movies-master\target\classes started by 兆晋 in D:\Spring-Boot-Neo4j-Movies-master)
+2022-04-13 14:54:15,023 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2022-04-13 14:54:38,271 INFO (StartupInfoLogger.java:59)- Started App in 24.188 seconds (JVM running for 26.408)
